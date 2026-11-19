@@ -14,4 +14,4 @@ Creating fake WhatsApp conversations with a chess theme.
 **KILLUAX**
 
 ## For Download :
-[![Download APK](https://img.shields.io/badge/Download-WhatsAppx%20APK-14603F?style=for-the-badge&logo=android&logoColor=white)](https://github.com/USERNAME/REPO_NAME/releases/latest)
+[![Download APK](https://img.shields.io/badge/Download-WhatsAppx%20APK-14603F?style=for-the-badge&logo=android&logoColor=white)](https://github.com/username-killuax/Whatsappx/releases/latest)
