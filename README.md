@@ -1,4 +1,4 @@
-# WhatsAppx
+0# WhatsAppx
 
 Creating fake WhatsApp conversations with a chess theme.
 
@@ -13,5 +13,5 @@ Creating fake WhatsApp conversations with a chess theme.
 ## Developer
 **KILLUAX**
 
-## For Download :
-[![Download APK](https://img.shields.io/badge/Download-WhatsAppx%20APK-14603F?style=for-the-badge&logo=android&logoColor=white)](https://github.com/username-killuax/Whatsappx/releases/latest)
+## For Download 
+[![Download WhatsAppx v2.0](https://img.shields.io/badge/Download%20APK-v2.0-2196F6?style=for-the-badge&logo=android&logoColor=white)](https://github.com/username-killuax/whatsappx/releases/download/v2.0/killuax.wpx_1_2.0.apk)
