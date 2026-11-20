@@ -1,4 +1,4 @@
-0# WhatsAppx
+## WhatsAppx
 
 Creating fake WhatsApp conversations with a chess theme.
 
